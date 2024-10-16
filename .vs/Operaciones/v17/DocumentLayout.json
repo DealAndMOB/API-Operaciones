@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EQUIPO-13\\Desktop\\NominaDilanFinal\\Operaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503DED25-AE3B-4CA3-96B3-09B4938E45A6}|Operaciones\\Operaciones.csproj|c:\\users\\equipo-13\\desktop\\nominadilanfinal\\operaciones\\operaciones\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503DED25-AE3B-4CA3-96B3-09B4938E45A6}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\controllers\\operacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503DED25-AE3B-4CA3-96B3-09B4938E45A6}|Operaciones\\Operaciones.csproj|c:\\users\\equipo-13\\desktop\\nominadilanfinal\\operaciones\\operaciones\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503DED25-AE3B-4CA3-96B3-09B4938E45A6}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\EQUIPO-13\\Desktop\\NominaDilanFinal\\Operaciones\\Operaciones\\Controllers\\OperacionesController.cs",
+              "RelativeDocumentMoniker": "Operaciones\\Controllers\\OperacionesController.cs",
+              "ToolTip": "C:\\Users\\EQUIPO-13\\Desktop\\NominaDilanFinal\\Operaciones\\Operaciones\\Controllers\\OperacionesController.cs",
+              "RelativeToolTip": "Operaciones\\Controllers\\OperacionesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:21:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\EQUIPO-13\\Desktop\\NominaDilanFinal\\Operaciones\\Operaciones\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Operaciones\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\EQUIPO-13\\Desktop\\NominaDilanFinal\\Operaciones\\Operaciones\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Operaciones\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:19:50.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
